@@ -21,7 +21,7 @@ Once you join our Telegram group, you can use the following commands to access t
 ### Tool Commands
 | Command       | Description                  | Telegram Link          |
 |---------------|-----------------------|-------------------------|
-| `/tele_web`     | Play games on Telegram Web       | to be updated |
+| `/tele_web`     | Play games on Telegram Web       | [Android Emulator for Telegram Web](https://t.me/smartairdrop2120/29) |
 | `/tele_id`      | Get your telegram id on telegram         | to be updated |
 
 ## How to Use
