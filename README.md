@@ -1,16 +1,39 @@
-## Hi there 👋
+# Smart Airdrop
 
-<!--
-**smart-airdrop/Smart-Airdrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Smart Airdrop**! This project aims to share free tools to help you play the airdrop game more effectively. Join our Telegram group to get started and use the available commands to interact with our tools.
 
-Here are some ideas to get you started:
+## Telegram Group
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Join our Telegram group to stay updated and interact with our tools:
+
+[Smart Airdrop](https://t.me/smartairdrop2120)
+
+## Available Commands
+
+Once you join our Telegram group, you can use the following commands to access the various tools and features we offer:
+
+### Airdrop Commands
+- `/supermeow` - Tool: to be updated
+- `/pixeltap` - Tool: available
+
+### Tool Commands
+- `/tele_web` - Play games on Telegram Web.
+- `/tele_id` - Get your telegram id on telegram
+
+## How to Use
+
+1. **Join our Telegram group**: Click on the link above to join our Telegram group.
+2. **Interact with the bot**: Use the commands listed to interact with our bot and access the tools and information you need.
+3. **Participate in airdrops**: Follow the instructions provided by the bot to participate in various airdrops and chat with group members.
+
+## Contributing
+
+We welcome contributions from the community. If you have any ideas, suggestions, or improvements, feel free to ask group admins.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for being a part of the Smart Airdrop community! If you have any questions or need further assistance, don't hesitate to reach out in our Telegram group.
