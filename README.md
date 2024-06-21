@@ -13,8 +13,8 @@ Join our Telegram group to stay updated and interact with our tools:
 Once you join our Telegram group, you can use the following commands to access the various tools and features we offer:
 
 ### Airdrop Commands
-- `/supermeow` - Tool: to be updated
-- `/pixeltap` - Tool: available
+- `/supermeow` - [Supermeow](https://t.me/supermeow_vip_bot?start=5914982564) - Auto Claim Bot: to be updated
+- `/pixeltap` - [PixelTap by Pixelverse](https://t.me/pixelversexyzbot?start=5914982564) - Auto Claim Bot: [pixeltap-claimer](https://github.com/smart-airdrop/pixeltap-claimer)
 
 ### Tool Commands
 - `/tele_web` - Play games on Telegram Web.
