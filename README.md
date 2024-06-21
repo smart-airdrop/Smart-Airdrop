@@ -19,8 +19,10 @@ Once you join our Telegram group, you can use the following commands to access t
 | `/pixeltap`      | [PixelTap by Pixelverse](https://t.me/pixelversexyzbot?start=5914982564)         | [pixeltap-claimer](https://github.com/smart-airdrop/pixeltap-claimer) |
 
 ### Tool Commands
-- `/tele_web` - Play games on Telegram Web.
-- `/tele_id` - Get your telegram id on telegram
+| Command       | Description                  | Telegram Link          |
+|---------------|-----------------------|-------------------------|
+| `/tele_web`     | Play games on Telegram Web       | to be updated |
+| `/tele_id`      | Get your telegram id on telegram         | to be updated |
 
 ## How to Use
 
