@@ -15,7 +15,7 @@ Once you join our Telegram group, you can use the following commands to access t
 ### Airdrop Commands
 | Command       | Game                  | Auto Claim Bot          |
 |---------------|-----------------------|-------------------------|
-| `/supermeow`     | [Supermeow](https://t.me/supermeow_vip_bot?start=5914982564)       | to be updated |
+| `/supermeow`     | [Supermeow](https://t.me/supermeow_vip_bot?start=5914982564)       | [supermeow-claimer](https://github.com/smart-airdrop/supermeow-claimer) |
 | `/pixeltap`      | [PixelTap by Pixelverse](https://t.me/pixelversexyzbot?start=5914982564)         | [pixeltap-claimer](https://github.com/smart-airdrop/pixeltap-claimer) |
 | `/timefarm`      | [Time Farm](https://t.me/TimeFarmCryptoBot?start=1sF0MvCzIscWWTA9a)        | [timefarm-claimer](https://github.com/smart-airdrop/timefarm-claimer) |
 
