@@ -26,6 +26,7 @@ Once you join our Telegram group, you can use the following commands to access t
 | `/tele_web`     | Play games on Telegram Web       | [Android Emulator for Telegram Web](https://t.me/smartairdrop2120/29) |
 | `/tele_id`      | Get your Telegram ID on Telegram         | [Telegram ID](https://t.me/smartairdrop2120/64) |
 | `/query_id`      | Get your game's query id on Telegram Web         | [Query ID](https://t.me/smartairdrop2120/121) |
+| `/run_bot`      | Run Auto Claim Bot         | [Run Bot](https://t.me/smartairdrop2120/152) |
 
 ## How to Use
 
