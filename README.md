@@ -8,6 +8,8 @@ Join our Telegram group to stay updated and interact with our tools:
 
 [Smart Airdrop](https://t.me/smartairdrop2120)
 
+[Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
+
 ## Available Commands
 
 Once you join our Telegram group, you can use the following commands to access the various tools and features we offer:
