@@ -22,6 +22,7 @@ Once you join our Telegram group, you can use the following commands to access t
 | `/timefarm`      | [Time Farm](https://t.me/TimeFarmCryptoBot?start=1sF0MvCzIscWWTA9a)        | [timefarm-claimer](https://github.com/smart-airdrop/timefarm-claimer) |
 | `/arix`      | [ArixDEX](https://t.me/ARIXcoin_bot?start=ref_5914982564)        | [arix-claimer](https://github.com/smart-airdrop/arix-claimer) |
 | `/pocketfi`      | [PocketFi](https://t.me/pocketfi_bot/Mining?startapp=5914982564)        | [pocketfi-claimer](https://github.com/smart-airdrop/pocketfi-claimer) |
+| `/bump`      | [BUMP](https://t.me/MMproBump_bot?start=ref_5914982564)        | [bump-claimer](https://github.com/smart-airdrop/bump-claimer) |
 
 ### Tool Commands
 | Command       | Description                  | Telegram Link          |
