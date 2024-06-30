@@ -25,6 +25,7 @@ Once you join our Telegram group, you can use the following commands to access t
 | `/bump`      | [BUMP](https://t.me/MMproBump_bot?start=ref_5914982564)        | [bump-claimer](https://github.com/smart-airdrop/bump-claimer) |
 | `/cell`      | [CELL Wallet - mine CELL](https://t.me/cellcoin_bot?start=5914982564)        | [cell-claimer](https://github.com/smart-airdrop/cell-claimer) |
 | `/matchquest`      | [MatchQuest](https://t.me/MatchQuestBot/start?startapp=5edd9daaeab49318a490d83d08dd3c9a)        | [matchquest-claimer](https://github.com/smart-airdrop/matchquest-claimer) |
+| `/mozoai`      | [MozoAI Bot](https://t.me/MozoAI_bot?start=4dc3F0WW)        | [mozoai-claimer](https://github.com/smart-airdrop/mozoai-claimer) |
 
 ### Tool Commands
 | Command       | Description                  | Telegram Link          |
